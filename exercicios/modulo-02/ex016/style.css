@@ -6,7 +6,14 @@
 }
 
 body{
-   background-image: linear-gradient(to rigth, ); 
+   background-image: linear-gradient(to right, #F1D8C9, #F2C3A7); 
+}
+
+main{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
 }
 
 p{
