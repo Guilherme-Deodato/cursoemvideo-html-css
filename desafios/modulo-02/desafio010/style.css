@@ -37,13 +37,28 @@ nav > a{
 
 main{
     background-color: white;
+    text-align: justify;
     padding: 10px;
-    margin: 10px 50px 5px 50px;
+    margin: 12px 11% 5px 11%;
     box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.384);
+}
+
+main > p{
+    text-align: justify;
+}
+
+section{
+    margin: auto;
 }
 
 article{
     margin: auto;
+
+}
+
+.android{
+    height: auto;
+    width: auto;
 }
 
 footer{
